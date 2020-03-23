@@ -1,0 +1,41 @@
+body{
+    background:#f5d9d5;
+    font-family: 'Nunito', sans-serif;
+}
+.timeto h2{
+    color:red;
+    font-weight:100;
+    font-size:2.5rem;
+}
+.timeto p{
+    color:#f498b8;
+    font-weight:100;
+    font-size:1.15rem;
+    line-height:2;
+}
+#mainnavbar{
+    font-size: 1.5rem;
+    font-weight:300;
+}
+#mainnavbar .nav-link{
+    color:white;
+}
+#mainnavbar .nav-link:hover{
+    color:red;
+}
+#mainnavbar .navbar-brand{
+    color:red;
+    
+}
+#heading span{
+    color:red;
+}
+#heading h1{
+    font-weight:100;
+}
+section {
+    margin-bottom: 100px;;
+}
+.navbar.scrolled{
+    background:#DDA0DD	;
+}
